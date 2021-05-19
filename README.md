@@ -1,5 +1,8 @@
+![Screenshot](git_header.jpg)
+
 ### Hi there 👋
-:family_man_woman_girl:	
+
+#### This is a work in progress. More comming soon!
 
 <!--
 **Jblack017/Jblack017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
