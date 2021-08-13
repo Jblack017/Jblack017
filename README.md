@@ -1,7 +1,5 @@
 ![Screenshot](git_header.jpg)
 
-### Hi there 👋
-
 ### I'm [Joshua Blackham](https://blackhamjoshua.tech)
 
 - 🔭 I’m currently working on Darndest, 4Cast, and PrismRiot
