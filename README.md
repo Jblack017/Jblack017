@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-#### This is a work in progress. More comming soon!
+#### This is a work in progress. More coming soon!
 
 <!--
 **Jblack017/Jblack017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
